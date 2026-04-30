@@ -1,6 +1,6 @@
 # Hi there, I'm Marian Fayez! 👋
 
-### 📱 Flutter Developer | Software Engineer | Tech Enthusiast
+### 📱 Flutter Developer 
 Based in Calgary, AB, I specialize in building high-performance, scalable mobile applications using **Clean Architecture** and modern state management.
 
 ---
